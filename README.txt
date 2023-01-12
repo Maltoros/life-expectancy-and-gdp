@@ -1,0 +1,2 @@
+The main goals of this project is to try to identify a relationship between the GDP and the life expectancy of six countries (Chile, China, Germany, Mexico, United States and Zimbabwe)
+It is part of a portfolio project from codecademy and it focuses on using Matplotlib and seaborn to create visualizations.
